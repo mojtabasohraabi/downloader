@@ -83,9 +83,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [MahsaNG_15_armeabi-v7a](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/MahsaNG_15_armeabi-v7a)
-2 - [mhrv-rs-android-x86_64-v1.9.9](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/mhrv-rs-android-x86_64-v1.9.9)
+1 - [mhrv-rs-android-universal-v1.9.9](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.9)
 
 ---
