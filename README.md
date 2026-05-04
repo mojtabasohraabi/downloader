@@ -85,8 +85,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [mhrv-rs-android-universal-v1.9.9](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/mhrv-rs-android-universal-v1.9.9)
+1 - [mhrv-rs-windows-amd64](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
 
 ---
