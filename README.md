@@ -87,8 +87,11 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [mhrv-rs-windows-amd64](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+2 - [nginx-1.30.0](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/nginx-1.30.0)
 
 ---
