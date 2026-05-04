@@ -79,8 +79,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [MahsaNG_15_x86](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/MahsaNG_15_x86)
+1 - [MahsaNG_15_armeabi-v7a](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/MahsaNG_15_armeabi-v7a)
 
 ---
