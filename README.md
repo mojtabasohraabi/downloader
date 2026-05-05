@@ -97,8 +97,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [slipnet-windows-amd64](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/slipnet-windows-amd64)
+1 - [SlipNet_User_Guide_FA](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/SlipNet_User_Guide_FA)
 
 ---
