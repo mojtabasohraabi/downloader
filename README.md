@@ -123,9 +123,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [SlipNet-v2.5.3-full-release-universal](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/SlipNet-v2.5.3-full-release-universal)
-2 - [Throne-1.1.2-windows-arm64](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/Throne-1.1.2-windows-arm64)
+1 - [Invizible_Pro__beta_ver.2.6.7](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/Invizible_Pro__beta_ver.2.6.7)
 
 ---
