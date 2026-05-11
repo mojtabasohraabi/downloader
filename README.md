@@ -135,8 +135,11 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [vpngate-client-2026.05.11-build-9807.164674](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/vpngate-client-2026.05.11-build-9807.164674)
+1 - [WhiteDNS-1.1.0-universal](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/WhiteDNS-1.1.0-universal)
+2 - [vpngate-client-2026.05.11-build-9807.164674](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/vpngate-client-2026.05.11-build-9807.164674)
 
 ---
