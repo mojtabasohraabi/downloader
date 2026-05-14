@@ -139,9 +139,10 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [StormDNS_Client_Windows_X86](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/StormDNS_Client_Windows_X86)
-2 - [WhiteDNS-1.1.0-universal](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/WhiteDNS-1.1.0-universal)
+1 - [mhrv-rs-windows-amd64](https://github.com/mojtabasohraabi/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
 
 ---
